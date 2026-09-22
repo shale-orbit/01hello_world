@@ -1,17 +1,17 @@
-# hello_world
+# 01 hello_world
 
-A new Flutter project.
+我的第一个 Flutter 应用：官方计数器示例，分别在 Web 端和 Android 模拟器上成功运行。
 
-## Getting Started
+## 运行方式
 
-This project is a starting point for a Flutter application.
+确保已安装 Flutter SDK，并通过 `flutter doctor` 检查环境。
 
-A few resources to get you started if this is your first Flutter project:
+## 运行截图
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Web 端（Chrome）：
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Web 端运行截图](docs/web.png)
+
+Android 模拟器：
+
+![Android 模拟器运行截图](docs/emulator.png)
